@@ -7,4 +7,4 @@ Update: Due to issues with source code compilation I have decided I cannot compl
 
 I only ask that you try above all to keep in the extra servers for AltWFC and BenFi
 
-Use the one at this link: https://gbatemp.net/posts/8856063
+Download compiled version: https://gbatemp.net/posts/8856063
