@@ -9,7 +9,8 @@ https://forum.wii-homebrew.com/index.php/Thread/59768-Security-issues-regarding-
 Exploit Release By Star
 https://mkwii.com/showthread.php?tid=1542&highlight=Star
 
-#Solution
+Solution
+-------------------------
 
 While there isn't a complete solution to this problem as there may be more exploits hidden in the game, There is a solution provided by sneeky
 
