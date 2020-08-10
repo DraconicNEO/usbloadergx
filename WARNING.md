@@ -5,6 +5,7 @@ For More information on this see these for reference
 
 Announcement on Wii Homebrew
 https://forum.wii-homebrew.com/index.php/Thread/59768-Security-issues-regarding-AltWFC-servers/?s=ddfae57097d391201db4e2350e13019a5c501a1d
+
 [Archived version of the announcement in the event that they delete it]
 https://web.archive.org/web/20200810205930/https://forum.wii-homebrew.com/index.php/Thread/59768-Security-issues-regarding-AltWFC-servers/?s=ddfae57097d391201db4e2350e13019a5c501a1d
 
