@@ -18,7 +18,7 @@ https://web.archive.org/web/20200720004106/https://mkwii.com/showthread.php?tid=
 Solution
 -------------------------
 
-While there isn't a complete solution to this problem as there may be more exploits hidden in the game, There is a solution provided by sneeky
+While there isn't a complete solution to this problem as there may be more exploits hidden in the game, There is a solution provided by MkWii Forum member sneeky.
 
 RCE protection by [sneeky]
 https://mkwii.com/printthread.php?tid=1543
