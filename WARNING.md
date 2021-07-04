@@ -26,6 +26,12 @@ https://mkwii.com/printthread.php?tid=1543
 [Archived version in case the top one gets deleted]
 https://web.archive.org/web/20200716172556/https://mkwii.com/printthread.php?tid=1543
 
+RACE protection from Star
+https://mkwii.com/printthread.php?tid=1854
+
+[Archived version in case the top one gets deleted]
+https://web.archive.org/web/20210704175413/https://mkwii.com/printthread.php?tid=1854
+
 While this isn't the best solution the only other one is to not play Mario Kart Wii online
 
 *Note Wiimmfi is very much vulnerable to exploits that haven't been publicly discovered, you are never 100% safe playing Wii games online
